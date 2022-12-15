@@ -1,6 +1,7 @@
 # week-1-challenge
-Edit a marketing site to meet accessibility standards
-NOTE!! README Should include Screenshots, and links to site in addition to template info. Be specific!
+Edit a marketing site to meet accessibility standards:
+https://sdoval27.github.io/week-1-challenge/
+
 ## Description
 
 - This digital marketing site has been edited to meet accessibility standards. When editing this site, five issues were addressed as stated below:
@@ -13,18 +14,24 @@ The title element in the head of the HTML file was changed from "website" to "Ho
 
 ### HTML Semantics:
 - Sections previously marked as "div" were renamed to define their appropriate function on the page. 
-- ![Navigation](assets/images/header-nav.png)
-The navigation within the header was renamed "nav". All the links on the nav bar relocate the user to their respective sections within the page.
-- ![articles](assets/images/aside-articles.png)
-The sidebar was renamed "aside" and the contents within were renamed "article."
-- ![Main Content](assets/images/main-section.png)
-The main section of the website was renamed "main", and the content enclosed were renamed to "section."
+
+- The navigation within the header was renamed "nav". All the links on the nav bar relocate the user to their respective sections within the page.
+![Navigation](assets/images/header-nav.png)
+
+
+- The sidebar was renamed "aside" and the contents within were renamed "article."
+![articles](assets/images/aside-articles.png)
+
+- The main section of the website was renamed "main", and the content enclosed were renamed to "section."
+![Main Content](assets/images/main-section.png)
+
 - Headers < h1 > through < h4 > were organcized in descending order on the HTML page.
 
 ### CSS Changes:
 - CSS elements were rearranged to match the order they appear in the HTML file.
-- ![CSS notecard](assets/images/CSS-notecard.png)
-styling content for the three sections under main were consolidated and renamed "notecard" due to the notecard-type styling of the sections.
+- Styling content for the three sections under main were consolidated and renamed "notecard" due to the notecard-type styling of the sections.
+
+![CSS notecard](assets/images/CSS-notecard.png)
 
 ## Installation
 
